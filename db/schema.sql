@@ -1,5 +1,5 @@
 DROP DATABASE IF EXISTS burgers_db;
--- Create a database called programming_db --
+
 CREATE DATABASE burgers_db;
 USE burgers_db;
 
